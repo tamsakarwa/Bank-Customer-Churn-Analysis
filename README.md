@@ -71,8 +71,8 @@ By identifying churn drivers and at-risk groups, this analysis enables the bank 
 Here’s a snapshot of the **interactive Tableau dashboard** used in this project:
 
 <p align="center">
-  <img src="<img width="1599" height="1924" alt="Customer Churn Dashboard" src="https://github.com/user-attachments/assets/3cbebde6-9888-4c2a-9073-4e996150207a" />
-" alt="Tableau Dashboard Preview" width="800"/>
+  <img width="1599" height="1924" alt="Customer Churn Dashboard" src="https://github.com/user-attachments/assets/d6b92317-29d0-43f9-b5c8-ec30133f88a6" />
+
 </p>
 
 ---
